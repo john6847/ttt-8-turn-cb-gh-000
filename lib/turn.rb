@@ -1,4 +1,5 @@
 def move()
+  puts "Please enter 1-9: "
 end
 
 
