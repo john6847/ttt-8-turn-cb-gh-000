@@ -1,4 +1,5 @@
 def move()
+end
 
 
 def display_board(board)
