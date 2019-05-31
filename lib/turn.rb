@@ -3,6 +3,7 @@ def turn(board)
   input = gets.chomp.to_i
   while !(input.between?(1,9))
     puts "Please enter 1-9: "
+    input = gets.chomp.to_i
   end
 
 end
